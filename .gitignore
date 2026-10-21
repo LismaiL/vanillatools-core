@@ -1,0 +1,7 @@
+# Ignore compiled vendor binaries, keep explanatory README
+assets/js/vendors/*
+!assets/js/vendors/README.md
+
+# OS & Environment junk
+.DS_Store
+Thumbs.db
